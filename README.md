@@ -1,1 +1,1 @@
-mori-profire
+簡易プロフィール
